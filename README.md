@@ -26,6 +26,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 - [x] 4. Apresentar a carta selecionada, o nome da carta e uma descrição. 
 
 <h2 id="link">:link: Links Importantes</h2>
+<br><a href="https://tarot-vercel.vercel.app/" target="_blank">Deploy</a></br>
 <br><a href="https://github.com/Personare/front-end-challenge" target="_blank">Case legado de referência</a></br>
 
 <h2 id="observacoes">:pencil: Observações</h2>
